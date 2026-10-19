@@ -2,7 +2,7 @@
 
 A small calculator, written by your group, one file each.
 
-`calculator.py` is finished. Do not edit it. It runs a demo that uses four files, and tells you which ones are still missing. If Python is installed, you can run `calculator.py` from your editor to see it.
+`calculator.py` is finished. **DO NOT EDIT IT**. It runs a demo that uses four files, and tells you which ones are still missing. If Python is installed, you can run `calculator.py` from your editor to see it.
 
 ## The four files
 
