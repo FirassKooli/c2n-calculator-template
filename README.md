@@ -25,7 +25,7 @@ def double(x):
 1. Pick one file from the list. One person per file.
 2. Create it in this folder and write the function.
 3. Add your line to the list at the bottom of this README.
-4. Commit, then push. If GitHub Desktop says someone pushed before you, pull first, then push.
+4. Commit, !PULL! then push. If GitHub Desktop says someone pushed before you, pull first, then push.
 
 ## Stretch
 
